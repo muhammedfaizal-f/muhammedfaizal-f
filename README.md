@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a> ·
+  <a href="www.linkedin.com/in/contact-muhammedfaizal">LinkedIn</a> ·
+  <a href="mailto:www.faizal6116@gmail.com">Email</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>
 
@@ -14,10 +14,9 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Computer Science student building real-world full-stack apps
-- 🔧 Currently crafting **ServeNow** — an on-demand local service booking platform
-- 🌱 Deepening my skills in React, Node.js, and system design
-- 📍 Based in Coimbatore, Tamil Nadu
+-  Computer Technology student building real-world full-stack apps
+-  Currently crafting **ServeNow** — an on-demand local service booking platform
+-  Based in Coimbatore, Tamil Nadu
 
 ---
 

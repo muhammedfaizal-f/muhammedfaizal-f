@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Muhammed Faizal F </h1>
+<h1 align="center">Hi, I'm Muhammed Faizal F </h1>
 
 <p align="center">
   <b>Full-Stack Developer · MERN Stack · Coimbatore, India</b>
@@ -14,8 +14,8 @@
 
 ### 🙋‍♂️ About Me
 
--  Computer Technology student building real-world full-stack apps
--  Currently crafting **ServeNow** — an on-demand local service booking platform
+-  I'm a passionate Full-Stack Developer from Coimbatore, India. I enjoy building modern web applications using the MERN Stack and continuously learning new technologies. I'm currently looking to contribute to Open Source projects and improve my development skills.
+-  Currently learning Advanced MERN Stack & Backend Development
 -  Based in Coimbatore, Tamil Nadu
 
 ---

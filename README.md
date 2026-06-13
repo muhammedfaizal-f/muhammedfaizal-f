@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/contact-muhammedfaizal">LinkedIn</a> ·
+ <a href="https://www.linkedin.com/in/contact-muhammedfaizal/">LinkedIn</a> ·
   <a href="mailto:www.faizal6116@gmail.com">Email</a> ·
   <a href="https://YOUR_PORTFOLIO.com">Portfolio</a>
 </p>

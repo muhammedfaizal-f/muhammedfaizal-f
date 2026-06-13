@@ -44,7 +44,7 @@
 
 ### 🚀 Featured Project
 
-#### [ServeNow](https://github.com/YOUR_USERNAME/ServeNow)
+#### [ServeNow](https://github.com/muhammedfaizal-f/ServeNow.git)
 > On-demand local service booking app — think UrbanClap for Coimbatore.
 
 - 🔐 JWT auth with role-based access (User / Provider / Admin)
